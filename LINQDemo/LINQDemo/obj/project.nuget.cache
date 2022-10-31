@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QkH71dSluNsN2Y3/xPyhD/s/RhCerISb69g7DuHbsaHIPeT2MQPW0Gi1PvBqP0XHU512z6e0JGtLf7mWvqxcFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\epicm\\Documents\\GitHub\\code-401-dotnet-guide-main\\curriculum\\class-09\\demo\\LINQDemo\\LINQDemo\\LINQDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\epicm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\epicm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\epicm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\epicm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\epicm\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

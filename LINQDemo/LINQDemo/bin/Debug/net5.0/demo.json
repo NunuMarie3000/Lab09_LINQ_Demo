@@ -1,0 +1,29 @@
+{
+  "show": "Hamilton",
+
+  "actors": [
+    "Daveed Diggs",
+    "John Smith",
+    "Lynn Manuel Miranda",
+    "Steven Sondheim"
+  ],
+
+  "director": "Eliza Minelli",
+
+  "crew": [
+    {
+      "position": "Soundboard Operator",
+      "name": "John Doe"
+    },
+    {
+      "position": "Carpenter",
+      "name": "Roy"
+    },
+    {
+      "position": "Costume Designer",
+      "name": "Jill C"
+    }
+  ],
+
+  "venue": "Orpheum"
+}
