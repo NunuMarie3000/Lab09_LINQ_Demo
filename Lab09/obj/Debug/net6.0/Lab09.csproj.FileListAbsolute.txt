@@ -1,0 +1,17 @@
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/bin/Debug/net6.0/Lab09
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/bin/Debug/net6.0/Lab09.deps.json
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/bin/Debug/net6.0/Lab09.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/bin/Debug/net6.0/Lab09.dll
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/bin/Debug/net6.0/Lab09.pdb
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/obj/Debug/net6.0/Lab09.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/obj/Debug/net6.0/Lab09.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/obj/Debug/net6.0/Lab09.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/obj/Debug/net6.0/Lab09.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/obj/Debug/net6.0/Lab09.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/obj/Debug/net6.0/Lab09.dll
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/obj/Debug/net6.0/refint/Lab09.dll
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/obj/Debug/net6.0/Lab09.pdb
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/obj/Debug/net6.0/Lab09.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/obj/Debug/net6.0/ref/Lab09.dll
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/obj/Debug/net6.0/Lab09.csproj.CopyComplete

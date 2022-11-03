@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+HD7BpF8Uzn/M+4YFJPS7d6ZsM4PWtoLQunlfkJC3F9Er0p2mv4+XpkwxvZuzY4WfAYa64+anHdlYSl2LrHMw==",
+  "success": true,
+  "projectFilePath": "/home/nunumarie3000/projects/courses/Code401/Lab09_LINQ_Demo/Lab09/Lab09.csproj",
+  "expectedPackageFiles": [
+    "/home/nunumarie3000/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
