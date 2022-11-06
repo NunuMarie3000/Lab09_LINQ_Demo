@@ -81,6 +81,15 @@ namespace Lab09
       foreach (var item in noDuplicates)
         Console.WriteLine($"{item}");
       Console.WriteLine($"No duplicates: {noDuplicates.Count()}");
+
+      Console.WriteLine("=============== Alternate Way to Do this ===========================");
+      var query = 
+                  from spot in neighborhoodsWithNames
+                  group spot by spot["properties"]["neighborhood"] into y
+                  select y;
+      foreach(var item in query)
+        Console.WriteLine($"{item.Key.ToString()} appears {item.Count()} times");
+      Console.WriteLine("==========================================");
     }
 
     static List<JToken> QuestionTwo(JToken[] allNeighborhoods)
