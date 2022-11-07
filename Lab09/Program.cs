@@ -11,11 +11,11 @@ namespace Lab09
   {
     static void Main(string[] args)
     {
-      JToken[] allNeighborhoods = QuestionOne();
-      List<JToken> neighborhoodsWithNames = QuestionTwo(allNeighborhoods);
-      QuestionThree(neighborhoodsWithNames);
+      // JToken[] allNeighborhoods = QuestionOne();
+      // List<JToken> neighborhoodsWithNames = QuestionTwo(allNeighborhoods);
+      // QuestionThree(neighborhoodsWithNames);
       QuestionFour();
-      QuestionFive();
+      // QuestionFive();
     }
 
     static void QuestionFive()
@@ -65,6 +65,18 @@ namespace Lab09
       foreach (var item in queriedWithNoDuplicates)
         Console.WriteLine(item);
       Console.WriteLine($"Consolidated query: {queriedWithNoDuplicates.Count()}");
+
+      var query = 
+          from item in queriedNeighborhoods
+          select item;
+      int counter = 1;
+      Console.WriteLine("================================ Question Four Remix ===================");
+      foreach(var item in query.Distinct())
+      {
+        Console.WriteLine($"{counter} {item.ToString()}");
+        counter++;
+      }
+      Console.WriteLine("================================ Question Four Remix ===================");
     }
 
     static void QuestionThree(List<JToken> neighborhoodsWithNames)
