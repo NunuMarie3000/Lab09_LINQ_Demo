@@ -4,6 +4,7 @@ using Newtonsoft.Json.Linq;
 using System.Linq;
 using System.Collections.Generic;
 using System.Collections;
+using Lab09.ImplementingFiles;
 
 namespace Lab09
 {
@@ -14,8 +15,11 @@ namespace Lab09
       // JToken[] allNeighborhoods = QuestionOne();
       // List<JToken> neighborhoodsWithNames = QuestionTwo(allNeighborhoods);
       // QuestionThree(neighborhoodsWithNames);
-      QuestionFour();
+      // QuestionFour();
       // QuestionFive();
+
+      //*BONUS*
+      Lab09.ImplementingFiles.ImplementingFiles.QuestionFour();
     }
 
     static void QuestionFive()
@@ -102,6 +106,8 @@ namespace Lab09
       foreach(var item in query)
         Console.WriteLine($"{item.Key.ToString()} appears {item.Count()} times");
       Console.WriteLine("==========================================");
+
+      
     }
 
     static List<JToken> QuestionTwo(JToken[] allNeighborhoods)

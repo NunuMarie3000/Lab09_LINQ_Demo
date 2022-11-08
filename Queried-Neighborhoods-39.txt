@@ -1,0 +1,41 @@
+These are the neighborhoods that contain no duplicates. There are 39 of them: 
+
+1. Chelsea
+2. Lower East Side
+3. Gramercy Park
+4. Financial District
+5. Civic Center
+6. Tribeca
+7. East Village
+8. Greenwich Village, SoHo
+9. SoHo, Tribeca
+10. Greenwich Village
+11. Kips Bay, Murray Hill
+12. Midtown East
+13. Garment District
+14. Midtown West
+15. Diamond District, Midtown
+16. Upper East Side
+17. Upper West Side
+18. Manhattan Valley
+19. Harlem
+20. Morningside Heights, Harlem
+21. Spanish Harlem
+22. Sugar Hill, Upper Manhattan
+23. Washington Heights
+24. Hudson Heights
+25. Inwood
+26. East Harlem
+27. Hell's Kitchen
+28. Upper Manhattan
+29. Roosevelt Island
+30. Midtown
+31. Hunter College, Rockefeller University
+32. Battery Park City
+33. Manhattanville
+34. Murray Hill
+35. Carnegie Hill
+36. Yorkville
+37. Lenox Hill
+38. Kips Bay
+39. South Cove
