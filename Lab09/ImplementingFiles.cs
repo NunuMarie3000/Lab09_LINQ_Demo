@@ -35,11 +35,11 @@ namespace Lab09.ImplementingFiles
       string JsonFileNameToCreate = "../Queried-Neighborhoods-AllData.json";
 
       // creating txt file
-      // CreateNewFile(fileToCreate, queriedNeighborhoods);
+      CreateNewFile(fileToCreate, queriedNeighborhoods);
       // creating csv file
       // CreateNewFileButMakeItCSV(CsvFileNameToCreate, queriedNeighborhoods);
       // creating json file
-      CreateNewFileButMakeItJSONAllData(JsonFileNameToCreate, jsonData);
+      // CreateNewFileButMakeItJSONAllData(JsonFileNameToCreate, jsonData);
     }
 
     public static void CreateNewFileButMakeItJSONAllData(string fileName, JObject jsonData)
